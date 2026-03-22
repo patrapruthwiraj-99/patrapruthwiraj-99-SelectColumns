@@ -1,1 +1,2 @@
-SELECT * FROM Person;
+SELECT id, firstname, lastname
+FROM person;
